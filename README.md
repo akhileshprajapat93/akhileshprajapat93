@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akhilesh Prajapat
-- 👀 I’m interested in Website Developement
-- 🌱 I’m currently learning Development
+- 👀 I’m interested in Cloud Computing
+- 🌱 I’m currently learning Azure
 - 📫 How to reach me akhileshprajapat93@gmail.com
 
 <!---
